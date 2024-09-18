@@ -1,2 +1,2 @@
-# Key-
-Password generatot, generate passwords with Key 🔑
+# Key 🔑
+Password generator, generate passwords with Key 🔑
